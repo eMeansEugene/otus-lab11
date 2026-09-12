@@ -1,0 +1,5 @@
+<map id="join_server::Session" name="join_server::Session">
+<area shape="rect" id="Node000001" title="Обслуживает одно клиентское TCP&#45;соединение (асинхронный «читатель&#45;писатель»)." alt="" coords="15,133,159,219"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,168,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,99,89,133,84,133,84,99"/>
+</map>
