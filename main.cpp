@@ -34,12 +34,6 @@ bool ParsePort(const std::string& arg, std::uint16_t& out) {
     }
 }
 
-/**
- * @brief Разбирает строку в размер статического блока (> 0).
- * @param arg Строковое представление bulk_size из argv.
- * @param out Результат при успешном разборе.
- * @return true, если строка — положительное целое.
- */
 
 } // namespace
 
